@@ -55,7 +55,7 @@ echo
 
 
 filepaths=(
-    README.md
+    ../README.md
     marcogithub/README.md
     marcogithubparallel/README.md
     marcogithub/marcogithubnested/README.md
