@@ -1,0 +1,6 @@
+[submodule "marcogithub"]
+	path = web/marcogithub
+	url = https://github.com/marcoplatformsh/marcogithub.git
+[submodule "marcogithubparallel"]
+	path = web/marcogithubparallel
+	url = https://github.com/marcoplatformsh/marcogithubparallel.git
