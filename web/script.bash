@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+# version: 1
+
 printp() {
     local -r parameter_name=$1
     printf '%s: %s\n' \
