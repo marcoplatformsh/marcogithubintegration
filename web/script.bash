@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# version: 1
+# version: 2
 
 printp() {
     local -r parameter_name=$1
